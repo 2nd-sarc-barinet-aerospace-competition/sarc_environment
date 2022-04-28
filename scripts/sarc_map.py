@@ -400,7 +400,7 @@ def sarc_map():
     id: " + str(count + 1) + "\n\
     x: "+ str(xkc + x) + "\n\
     y: "+ str(ykc + y) +"\n\
-    z: 100\n\
+    z: 98.6\n\
     heading: 0"
     return model
   
