@@ -10,7 +10,7 @@ windows:
   - gazebo:
       layout: tiled
       panes:
-        - waitForRos; roslaunch sarc_environment sarc.launch
+        - waitForRos; roslaunch sarc_environment sarc_mrs.launch
   - status:
       layout: tiled
       panes:

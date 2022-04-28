@@ -31,9 +31,9 @@ An environment for simulating a burning forest, with the intention that teams ca
 ```
 roslaunch sarc.launch
 ```
-* Otherwise, if you do have MRS, you can simply do in terminal
+* Otherwise, if you do have MRS, go to the folder start and running start.sh, using in the terminal
 ```
-roslaunch sarc_environment sarc.launch
+./start.sh
 ```
 
 ### Will be added soon, STAY TUNED
