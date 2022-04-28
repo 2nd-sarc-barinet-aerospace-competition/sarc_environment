@@ -38,6 +38,7 @@ roslaunch sarc_environment sarc.launch
 
 ### Will be added soon, STAY TUNED
 * KC (aircraft) making a path on the map;
-* MRS*, drones falling from KC (a free-fall mode will be added!);
+* MRS*, UAV's falling from KC (a free-fall mode will be added!);
+* A force that simulates air resistance when kc drops the UAV's;
 * A type of tree with less computational consumption;
 * A video explaining the package better.
