@@ -25,7 +25,7 @@ An environment for simulating a burning forest, with the intention that teams ca
 * With all that done, simply clone this package into a Catkin workspace (if you don't know what that is, http://wiki.ros.org/catkin/Tutorials/create_a_workspace)
   and build. (If you have MRS, we recommend that you clone into the "workspace" folder that is in "home")
 
-### Executing program
+### Executing simulation
 
 * If you don't have MRS, you can simply run the environment by going to the launch folder and running sarc.launch, using in the terminal
 ```
