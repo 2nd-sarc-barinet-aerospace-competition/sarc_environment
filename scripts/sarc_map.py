@@ -17,6 +17,10 @@ rospack = rospkg.RosPack()
 rospack.list()
 rospy.init_node('sarc_map', anonymous=True)
 rate = rospy.Rate(10) # 10hz
+quant = 60 ## this quantity is this number times 3, since each tree type will have this many replicas
+dronesquant = 5 ## number of drones to spawn, above 5 pay atention in the spawn circle radius
+spawnCircleRadius = 0.75
+
 
 def sarc_map():
   startText = "<?xml version='1.0' ?>\n\
@@ -153,7 +157,6 @@ def sarc_map():
   currentAxis = plt.gca()
   currentAxis.add_patch(Rectangle((someX - 0.1, someY - 0.1), 0.2, 0.2,
                         alpha=1, facecolor='none'))
-  quant = 1 ## this quantity is this number times 3, since each tree type will have this many replicas
 
   # x-axis values
   x1 = [0] * quant
@@ -329,7 +332,7 @@ def sarc_map():
   def checkSafeX(i):
     if i < someX - someX/5 and i > -someX + someX/5:
       return False
-    if i > someX - 10 and i > -someX + 10:
+    if i > someX - 10 and i < -someX + 10:
       return False
     if i < 0 and xorigin < 0:
       return False
@@ -341,7 +344,7 @@ def sarc_map():
   def checkSafeY(i):
     if i < someY - someY/5 and i > -someY + someY/5:
       return False
-    if i > someY - 10 and i > -someY + 10:
+    if i > someY - 10 and i < -someY + 10:
       return False
     if i < 0 and yorigin < 0:
       return False
@@ -404,7 +407,6 @@ def sarc_map():
     heading: 0"
     return model
   
-  dronesquant = 5
   xdrone = [0] * dronesquant
   ydrone = [0] * dronesquant
   angleradiusdrones = [0] * dronesquant
@@ -413,9 +415,9 @@ def sarc_map():
   for i in range(dronesquant):
       angleradiusdrones[i] = math.radians(i * eachangle)
       # print(angleradiusdrones[i])
-      xdrone[i] = (math.cos(angleradiusdrones[i]) * 0.75)
+      xdrone[i] = (math.cos(angleradiusdrones[i]) * spawnCircleRadius)
       # print(xdrone[i])
-      ydrone[i] = (math.sin(angleradiusdrones[i]) * 0.75)
+      ydrone[i] = (math.sin(angleradiusdrones[i]) * spawnCircleRadius)
       # print(ydrone[i])
       d = open(rospack.get_path('sarc_environment') + "/start/pos/pos" + str(i + 1) + ".yaml", "w")
       d.write(insertUAV(xdrone[i], x5[0], ydrone[i], y5[0],  i))
