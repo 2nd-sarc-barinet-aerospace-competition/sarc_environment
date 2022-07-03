@@ -40,5 +40,5 @@ roslaunch sarc.launch
 * KC390 (Cargo aircraft) making a path on the map;
 * MRS*, UAV's falling from KC (a free-fall mode will be added!);
 * A force that simulates air resistance when kc drops the UAV's;
-* A type of tree with less computational consumption;
+* ~~A type of tree with less computational consumption;~~ [ ADDED, TAKE A LOOK INTO STARTS FOLDER ]
 * A video explaining the package better.
