@@ -113,1814 +113,1820 @@
         </model>
 			<model name='MRS_tree_simples_fire0'>
           <include>
-            <pose>21.11999679804316 -61.71198515402579 0 0 0 0</pose>
+            <pose>-26.38127871992881 26.295940529363186 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_fire</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_fire1'>
           <include>
-            <pose>48.92820786528209 -58.30781841887592 0 0 0 0</pose>
+            <pose>-18.744191360608536 21.632478057662194 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_fire</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_fire2'>
           <include>
-            <pose>44.938421682346146 -56.82776103458749 0 0 0 0</pose>
+            <pose>-35.1449979758211 13.60164163693257 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_fire</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_fire3'>
           <include>
-            <pose>33.42811960403756 -55.84784978435272 0 0 0 0</pose>
+            <pose>-26.61828638824814 9.681931022610225 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_fire</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_fire4'>
           <include>
-            <pose>50.4045676532195 -53.47861094904008 0 0 0 0</pose>
+            <pose>-23.73235551064306 25.059190511895657 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_fire</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_fire5'>
           <include>
-            <pose>25.61904421296484 -53.6081252561368 0 0 0 0</pose>
+            <pose>-16.0883794015573 26.38548290937696 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_fire</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_fire6'>
           <include>
-            <pose>42.39305256843955 -70.36749319052396 0 0 0 0</pose>
+            <pose>-26.300890234855192 22.703452739463856 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_fire</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_fire7'>
           <include>
-            <pose>44.89273364483542 -46.363501597719015 0 0 0 0</pose>
+            <pose>-9.827020651149107 14.464093205472615 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_fire</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_fire8'>
           <include>
-            <pose>32.02432278279322 -30.395306398442965 0 0 0 0</pose>
+            <pose>-25.642851182779275 14.270992860104343 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_fire</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_fire9'>
           <include>
-            <pose>64.1969743611739 -39.379529720403966 0 0 0 0</pose>
+            <pose>-13.425778930710589 38.28287254422874 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_fire</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_fire10'>
           <include>
-            <pose>37.49881848519112 -55.456739528367144 0 0 0 0</pose>
+            <pose>-45.13909408201597 20.521810543470696 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_fire</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_fire11'>
           <include>
-            <pose>44.65318626110807 -33.29519278598875 0 0 0 0</pose>
+            <pose>-19.48194389322699 22.715589787826097 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_fire</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_fire12'>
           <include>
-            <pose>41.56012728349953 -47.93936989838146 0 0 0 0</pose>
+            <pose>-14.70245086286155 25.94657546118661 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_fire</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_fire13'>
           <include>
-            <pose>48.89836370858682 -65.45814368161828 0 0 0 0</pose>
+            <pose>-35.61633164322346 6.011491144070037 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_fire</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_fire14'>
           <include>
-            <pose>37.793469507026266 -30.35525591266435 0 0 0 0</pose>
+            <pose>-18.610106206234367 42.11535748573351 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_fire</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_fire15'>
           <include>
-            <pose>38.03485791991784 -39.20771152744103 0 0 0 0</pose>
+            <pose>-28.127522550887154 30.462675342289103 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_fire</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_fire16'>
           <include>
-            <pose>28.52263505339451 -46.36669985456049 0 0 0 0</pose>
+            <pose>-23.539551776839247 13.214124516248129 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_fire</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_fire17'>
           <include>
-            <pose>53.26156514044856 -45.75299543347652 0 0 0 0</pose>
+            <pose>-16.61053132713084 28.653507478263585 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_fire</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_fire18'>
           <include>
-            <pose>34.37339622900776 -66.8236698674763 0 0 0 0</pose>
+            <pose>-33.95381883622868 40.72041051655809 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_fire</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_fire19'>
           <include>
-            <pose>57.188264727561446 -65.18826472756145 0 0 0 0</pose>
+            <pose>-11.90494862499072 31.11427494983961 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_fire</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_fire20'>
           <include>
-            <pose>54.914416715629656 -40.697790633622986 0 0 0 0</pose>
+            <pose>-17.549384699351723 29.164134081248655 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_fire</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_fire21'>
           <include>
-            <pose>42.329546103567914 -55.751900880498056 0 0 0 0</pose>
+            <pose>-40.05220258920548 36.45346813120888 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_fire</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_fire22'>
           <include>
-            <pose>58.81518885207335 -53.81907645789543 0 0 0 0</pose>
+            <pose>-15.7652917762994 21.424173106631606 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_fire</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_fire23'>
           <include>
-            <pose>54.15749098008875 -36.358835519498676 0 0 0 0</pose>
+            <pose>-18.89195695535874 25.44541853800825 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_fire</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_fire24'>
           <include>
-            <pose>40.29146430180386 -56.26618230425614 0 0 0 0</pose>
+            <pose>-22.719123371956844 23.15330649613664 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_fire</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_fire25'>
           <include>
-            <pose>42.83201369987711 -50.3319426935774 0 0 0 0</pose>
+            <pose>-22.21816951300088 42.36641566105465 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_fire</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_fire26'>
           <include>
-            <pose>62.72846476987628 -41.187115823603506 0 0 0 0</pose>
+            <pose>-34.86183540305897 14.673599512096139 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_fire</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_fire27'>
           <include>
-            <pose>45.877100841740564 -62.645567877352406 0 0 0 0</pose>
+            <pose>-17.390685194836397 14.659612262939426 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_fire</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_fire28'>
           <include>
-            <pose>57.14705214362178 -51.5408948225966 0 0 0 0</pose>
+            <pose>-43.42369341909509 26.842870688021208 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_fire</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_fire29'>
           <include>
-            <pose>47.26984508165499 -51.0623870106893 0 0 0 0</pose>
+            <pose>-31.401610862104334 20.694896304306162 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_fire</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_fire30'>
           <include>
-            <pose>43.83139516167895 -61.65936471817333 0 0 0 0</pose>
+            <pose>-22.840049565899392 31.44703817459488 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_fire</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_fire31'>
           <include>
-            <pose>58.084971000374445 -42.13759713007266 0 0 0 0</pose>
+            <pose>-17.6424850215833 13.862751901833391 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_fire</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_fire32'>
           <include>
-            <pose>58.37316144753507 -42.30518018968637 0 0 0 0</pose>
+            <pose>-9.65742799123563 31.67418697333736 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_fire</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_fire33'>
           <include>
-            <pose>43.939026650085516 -51.95730600075998 0 0 0 0</pose>
+            <pose>-21.00608267882617 38.97934887301169 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_fire</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_fire34'>
           <include>
-            <pose>54.915799471414246 -68.80885715805655 0 0 0 0</pose>
+            <pose>-44.163129020780815 30.97720342562864 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_fire</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_fire35'>
           <include>
-            <pose>53.34831804124003 -53.48062812093757 0 0 0 0</pose>
+            <pose>-6.078151761792068 31.131637779343833 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_fire</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_fire36'>
           <include>
-            <pose>51.7594660108435 -52.27096652394371 0 0 0 0</pose>
+            <pose>-26.64611129630236 24.64611129630236 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_fire</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_fire37'>
           <include>
-            <pose>25.44050995512834 -66.50026280735274 0 0 0 0</pose>
+            <pose>-19.336269389961547 33.54313832078134 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_fire</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_fire38'>
           <include>
-            <pose>45.64846038223807 -55.702502638830914 0 0 0 0</pose>
+            <pose>-24.3579575789298 19.084669470676648 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_fire</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_fire39'>
           <include>
-            <pose>44.9919319633753 -51.948015048599636 0 0 0 0</pose>
+            <pose>-29.253157161686744 15.73953108009782 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_fire</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_fire40'>
           <include>
-            <pose>62.929849252049195 -58.518069812891255 0 0 0 0</pose>
+            <pose>-22.11310830079 20.727275478523577 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_fire</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_fire41'>
           <include>
-            <pose>58.21731689139692 -43.457374171724254 0 0 0 0</pose>
+            <pose>-28.07988288028552 12.836433017656466 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_fire</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_fire42'>
           <include>
-            <pose>38.69741109229787 -49.527362184290745 0 0 0 0</pose>
+            <pose>-8.79762527478766 19.86344556666011 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_fire</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_fire43'>
           <include>
-            <pose>47.472226855339116 -60.18005385182743 0 0 0 0</pose>
+            <pose>-36.128552447692606 13.18809084360781 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_fire</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_fire44'>
           <include>
-            <pose>28.490209973900598 -56.15583571226962 0 0 0 0</pose>
+            <pose>-18.24915641632374 26.999132058545314 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_fire</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_fire45'>
           <include>
-            <pose>54.600772475618456 -43.71776883493127 0 0 0 0</pose>
+            <pose>-36.71304850351139 18.83028100657102 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_fire</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_fire46'>
           <include>
-            <pose>31.301067567121642 -31.677459945705483 0 0 0 0</pose>
+            <pose>-20.99832758274875 6.557734111202793 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_fire</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_fire47'>
           <include>
-            <pose>53.19348479039788 -37.28734884771254 0 0 0 0</pose>
+            <pose>-19.722513396162576 21.012464405208224 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_fire</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_fire48'>
           <include>
-            <pose>44.09460849470468 -51.326825581297975 0 0 0 0</pose>
+            <pose>-20.83916570000691 23.680645409225434 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_fire</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_fire49'>
           <include>
-            <pose>40.424868596989484 -57.95001784073742 0 0 0 0</pose>
+            <pose>-15.782817516864181 11.48248604050677 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_fire</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_fire50'>
           <include>
-            <pose>56.90034379222608 -51.09792008563438 0 0 0 0</pose>
+            <pose>-23.885345740182256 22.20684176005651 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_fire</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_fire51'>
           <include>
-            <pose>25.648157573624502 -63.91782582085248 0 0 0 0</pose>
+            <pose>-7.467722524025028 39.11967448236913 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_fire</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_fire52'>
           <include>
-            <pose>52.720532610634265 -50.30490017529936 0 0 0 0</pose>
+            <pose>-10.95530487240597 14.468641756586978 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_fire</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_fire53'>
           <include>
-            <pose>30.14327537692424 -55.97335184739743 0 0 0 0</pose>
+            <pose>-27.144489849464815 18.382678220348527 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_fire</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_fire54'>
           <include>
-            <pose>45.38044464630899 -42.17762596022563 0 0 0 0</pose>
+            <pose>-25.630145352034933 40.63264663486257 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_fire</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_fire55'>
           <include>
-            <pose>33.78701461834639 -34.31059042201771 0 0 0 0</pose>
+            <pose>-22.5258269608016 18.688953142862246 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_fire</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_fire56'>
           <include>
-            <pose>49.52037923786525 -63.8384914794393 0 0 0 0</pose>
+            <pose>-14.53629808603907 10.313301416154324 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_fire</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_fire57'>
           <include>
-            <pose>31.327815404786076 -52.22119380489182 0 0 0 0</pose>
+            <pose>-28.503853737887766 35.08014101703457 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_fire</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_fire58'>
           <include>
-            <pose>35.94622327573035 -38.59626464236585 0 0 0 0</pose>
+            <pose>-32.05754658846473 15.475127425936357 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_fire</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_fire59'>
           <include>
-            <pose>37.921946963969596 -56.41596401814819 0 0 0 0</pose>
+            <pose>-31.342211710230515 26.76808803548738 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_fire</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_fire60'>
           <include>
-            <pose>51.59746816605609 -37.71124055047205 0 0 0 0</pose>
+            <pose>-24.13049324475112 21.621020099130586 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_fire</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_fire61'>
           <include>
-            <pose>45.813606747791724 -44.726020635025016 0 0 0 0</pose>
+            <pose>-43.690127672523346 19.582356319607094 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_fire</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_fire62'>
           <include>
-            <pose>39.771423756175594 -54.24837387134111 0 0 0 0</pose>
+            <pose>-12.826144805831982 7.698117544887484 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_fire</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_fire63'>
           <include>
-            <pose>47.69168199086444 -37.19347225836325 0 0 0 0</pose>
+            <pose>-23.62630736368024 22.973502600433203 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_fire</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_fire64'>
           <include>
-            <pose>54.526570854939195 -68.84603481155636 0 0 0 0</pose>
+            <pose>-2.536878933915247 13.328336201026723 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_fire</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_fire65'>
           <include>
-            <pose>46.22476786677052 -41.53329010739128 0 0 0 0</pose>
+            <pose>-8.169453525795468 20.056253302311777 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_fire</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_fire66'>
           <include>
-            <pose>68.03882862605383 -50.31904135132366 0 0 0 0</pose>
+            <pose>-28.121042710093853 2.612018383645811 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_fire</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_fire67'>
           <include>
-            <pose>37.86881188623216 -64.03313420330907 0 0 0 0</pose>
+            <pose>-31.071862382592847 25.44917774584355 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_fire</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_fire68'>
           <include>
-            <pose>44.885009958263055 -59.20782769230166 0 0 0 0</pose>
+            <pose>-10.046671525257969 26.533711249451144 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_fire</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_fire69'>
           <include>
-            <pose>40.994685283579095 -57.652174923867605 0 0 0 0</pose>
+            <pose>-15.852916028519871 6.677563559438406 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_fire</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_fire70'>
           <include>
-            <pose>50.48009477073276 -51.886889525035855 0 0 0 0</pose>
+            <pose>-32.5213697752563 24.283294149686903 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_fire</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_fire71'>
           <include>
-            <pose>62.03520111226443 -52.00000000000001 0 0 0 0</pose>
+            <pose>-21.159574368608354 16.425350815724656 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_fire</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_fire72'>
           <include>
-            <pose>21.83304095526203 -55.115362926961204 0 0 0 0</pose>
+            <pose>-38.19115422529853 29.23075423549 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_fire</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_fire73'>
           <include>
-            <pose>45.74000627298674 -58.97878398392799 0 0 0 0</pose>
+            <pose>-5.3654719452311745 14.090112128799277 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_fire</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_fire74'>
           <include>
-            <pose>42.028950814292166 -45.933734370184304 0 0 0 0</pose>
+            <pose>-20.10258997161884 3.6641274314947267 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_fire</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_fire75'>
           <include>
-            <pose>63.41170161747351 -58.68398488783579 0 0 0 0</pose>
+            <pose>-19.954756275925064 26.995459972351398 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_fire</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_fire76'>
           <include>
-            <pose>42.731575806187735 -57.494148793856155 0 0 0 0</pose>
+            <pose>-26.339493988800655 22.204679202407103 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_fire</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_fire77'>
           <include>
-            <pose>40.04837228285919 -46.94214716990338 0 0 0 0</pose>
+            <pose>-17.52867653000245 11.229909125229723 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_fire</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_fire78'>
           <include>
-            <pose>65.05659420089701 -56.86129781442612 0 0 0 0</pose>
+            <pose>-39.78164550252232 31.111537279136506 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_fire</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_fire79'>
           <include>
-            <pose>45.06148787962099 -51.010146538501154 0 0 0 0</pose>
+            <pose>-21.56452167612331 9.470550208091556 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_fire</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_fire80'>
           <include>
-            <pose>33.0533225023548 -73.48406425725528 0 0 0 0</pose>
+            <pose>-17.06980243255062 34.502407365144535 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_fire</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_fire81'>
           <include>
-            <pose>62.13380272053253 -53.58650216466216 0 0 0 0</pose>
+            <pose>-24.980045699146185 19.153740619920242 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_fire</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_fire82'>
           <include>
-            <pose>37.17171033331089 -61.751808276939826 0 0 0 0</pose>
+            <pose>-28.621822181714514 12.929163231590364 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_fire</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_fire83'>
           <include>
-            <pose>49.49416707728276 -64.94344650724759 0 0 0 0</pose>
+            <pose>-31.713134319888656 25.761946967795478 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_fire</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_fire84'>
           <include>
-            <pose>50.894917923397486 -47.6915771057386 0 0 0 0</pose>
+            <pose>-35.30435239391101 11.083513786736658 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_fire</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_fire85'>
           <include>
-            <pose>40.214567293539965 -52.066074973672656 0 0 0 0</pose>
+            <pose>-4.200555641839188 17.428938095740172 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_fire</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_fire86'>
           <include>
-            <pose>52.78484393070585 -56.09644000058459 0 0 0 0</pose>
+            <pose>-1.5288329549877986 25.55908321586342 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_fire</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_fire87'>
           <include>
-            <pose>48.831391504521726 -53.477104617071014 0 0 0 0</pose>
+            <pose>-27.023882854952227 21.521064006411432 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_fire</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_fire88'>
           <include>
-            <pose>46.80157017250767 -53.75061533802337 0 0 0 0</pose>
+            <pose>-21.862563689644087 16.43178804141235 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_fire</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_fire89'>
           <include>
-            <pose>45.62739210180903 -53.6852138538466 0 0 0 0</pose>
+            <pose>-46.57595083776364 25.172842974939453 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_fire</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_fire90'>
           <include>
-            <pose>43.663090802203996 -52.43122410852788 0 0 0 0</pose>
+            <pose>-6.676526797757841 13.92193177995159 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_fire</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_fire91'>
           <include>
-            <pose>34.728278587268186 -66.83785592044399 0 0 0 0</pose>
+            <pose>-25.71817197376161 21.474702111598692 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_fire</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_fire92'>
           <include>
-            <pose>33.89397046872219 -41.53490006829913 0 0 0 0</pose>
+            <pose>-33.8677616833761 41.36657274561514 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_fire</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_fire93'>
           <include>
-            <pose>42.22847764801321 -51.35521859453956 0 0 0 0</pose>
+            <pose>-13.328753653169386 0.1207026206541606 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_fire</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_fire94'>
           <include>
-            <pose>56.884360240155694 -52.67524070766928 0 0 0 0</pose>
+            <pose>-8.901220522926469 8.40499789488177 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_fire</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_fire95'>
           <include>
-            <pose>62.24401089809073 -60.898198661149586 0 0 0 0</pose>
+            <pose>-26.933750452677387 32.23120370329193 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_fire</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_fire96'>
           <include>
-            <pose>57.83028025113161 -50.79000726463951 0 0 0 0</pose>
+            <pose>-8.828011521031137 14.26948575052909 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_fire</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_fire97'>
           <include>
-            <pose>37.43917048091459 -32.945967544095524 0 0 0 0</pose>
+            <pose>-21.488305271915607 23.335491776376884 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_fire</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_fire98'>
           <include>
-            <pose>44.40947851896934 -52.7387188029785 0 0 0 0</pose>
+            <pose>-26.829505195524835 42.132975597566244 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_fire</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_fire99'>
           <include>
-            <pose>43.270340829045765 -38.07727362356785 0 0 0 0</pose>
+            <pose>-36.85474984390821 25.444419839579307 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_fire</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_close0'>
           <include>
-            <pose>23.05292667216982 -34.42331849637425 0 0 0 0</pose>
+            <pose>-38.01739846975599 53.483592437540636 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_close</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_close1'>
           <include>
-            <pose>45.62634137064905 -83.03244199426176 0 0 0 0</pose>
+            <pose>5.975941082326116 14.526158476598773 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_close</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_close2'>
           <include>
-            <pose>37.08268895287635 -91.23002038219309 0 0 0 0</pose>
+            <pose>1.8392618249492045 -0.4617276193894604 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_close</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_close3'>
           <include>
-            <pose>45.480454654155025 -80.24875761591538 0 0 0 0</pose>
+            <pose>-11.596936277178258 51.21978701487237 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_close</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_close4'>
           <include>
-            <pose>40.83558624330162 -82.10738576518406 0 0 0 0</pose>
+            <pose>-34.705384290059 -15.33411180001935 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_close</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_close5'>
           <include>
-            <pose>81.47631602598777 -46.73304726413707 0 0 0 0</pose>
+            <pose>11.7037575913101 0.5470181120754383 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_close</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_close6'>
           <include>
-            <pose>61.871069129789674 -32.83562465052552 0 0 0 0</pose>
+            <pose>-38.007835999988345 -5.491926092970363 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_close</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_close7'>
           <include>
-            <pose>49.72630848442666 -88.15448886704542 0 0 0 0</pose>
+            <pose>8.473027076921 28.312117041849405 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_close</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_close8'>
           <include>
-            <pose>18.90609446945694 -80.8672361361253 0 0 0 0</pose>
+            <pose>-44.638189651709794 57.74639305300362 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_close</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_close9'>
           <include>
-            <pose>20.152753032708578 -62.122555773546075 0 0 0 0</pose>
+            <pose>-20.77875769033712 -4.234913298343468 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_close</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_close10'>
           <include>
-            <pose>76.00546687346022 -67.6101092064517 0 0 0 0</pose>
+            <pose>7.144953038591343 8.133373504631882 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_close</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_close11'>
           <include>
-            <pose>72.3340719124424 -74.94447903009498 0 0 0 0</pose>
+            <pose>-52.87452014861523 14.263095644342366 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_close</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_close12'>
           <include>
-            <pose>64.90247435209368 -72.18528484750965 0 0 0 0</pose>
+            <pose>-53.21739325774018 30.932653551134567 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_close</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_close13'>
           <include>
-            <pose>28.854332176058804 -74.45437595783451 0 0 0 0</pose>
+            <pose>-50.915088295953964 38.17221661468835 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_close</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_close14'>
           <include>
-            <pose>17.19374232064104 -66.25314003566311 0 0 0 0</pose>
+            <pose>13.362237747708129 14.737516676523565 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_close</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_close15'>
           <include>
-            <pose>13.971727983721621 -62.33956323457798 0 0 0 0</pose>
+            <pose>-49.15547289967171 20.681657528513487 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_close</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_close16'>
           <include>
-            <pose>7.394367813945934 -32.53644011474407 0 0 0 0</pose>
+            <pose>-16.39359102905001 -8.50764007336226 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_close</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_close17'>
           <include>
-            <pose>43.34614279442709 -14.54054578073211 0 0 0 0</pose>
+            <pose>-10.62342560505604 -4.253005435188232 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_close</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_close18'>
           <include>
-            <pose>56.5388042131068 -90.59047130254253 0 0 0 0</pose>
+            <pose>7.504790843435774 36.02683660814332 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_close</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_close19'>
           <include>
-            <pose>26.600120170750344 -33.34091331292305 0 0 0 0</pose>
+            <pose>-19.932893639093052 -3.678698946520779 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_close</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_close20'>
           <include>
-            <pose>11.204751548214531 -75.8271427167241 0 0 0 0</pose>
+            <pose>-24.618217966628798 -13.417683587610028 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_close</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_close21'>
           <include>
-            <pose>37.20236523093531 -79.26382392490501 0 0 0 0</pose>
+            <pose>15.492088092868357 24.069692636197466 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_close</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_close22'>
           <include>
-            <pose>15.722661465292731 -37.591976372597145 0 0 0 0</pose>
+            <pose>-42.44090274756914 39.19642001410568 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_close</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_close23'>
           <include>
-            <pose>67.53590318891249 -19.605608368821017 0 0 0 0</pose>
+            <pose>15.543076397041183 12.870761480675139 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_close</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_close24'>
           <include>
-            <pose>21.289543707809006 -22.93194150552348 0 0 0 0</pose>
+            <pose>4.073292668500606 52.10492064506538 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_close</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_close25'>
           <include>
-            <pose>11.276982910867083 -29.92804627659957 0 0 0 0</pose>
+            <pose>-53.845089255467684 -5.830995977848641 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_close</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_close26'>
           <include>
-            <pose>54.20902851138189 -23.950924690409842 0 0 0 0</pose>
+            <pose>-4.720578942765936 49.533866754030775 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_close</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_close27'>
           <include>
-            <pose>23.196317308953876 -23.366187264825022 0 0 0 0</pose>
+            <pose>-59.54818639784166 40.901305986192696 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_close</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_close28'>
           <include>
-            <pose>71.24817462409906 -33.62087414763549 0 0 0 0</pose>
+            <pose>-48.48289432442716 3.5508158235892004 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_close</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_close29'>
           <include>
-            <pose>17.34993627957151 -35.34719195467357 0 0 0 0</pose>
+            <pose>-32.790404183434575 -3.529187448697744 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_close</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_close30'>
           <include>
-            <pose>43.09833758275273 -26.179766644021075 0 0 0 0</pose>
+            <pose>-25.418067571295264 -5.058341160319433 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_close</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_close31'>
           <include>
-            <pose>76.42509933878807 -38.89940949181941 0 0 0 0</pose>
+            <pose>-51.025884738636634 -5.986122903868161 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_close</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_close32'>
           <include>
-            <pose>76.79160787445657 -28.17550231753182 0 0 0 0</pose>
+            <pose>-7.344259339170641 -0.10291439420612392 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_close</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_close33'>
           <include>
-            <pose>56.05295644314428 -76.71222289776667 0 0 0 0</pose>
+            <pose>-33.61515777504872 57.884257339272736 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_close</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_close34'>
           <include>
-            <pose>74.72784913330536 -45.46859404070945 0 0 0 0</pose>
+            <pose>12.192967375935929 38.114147282202694 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_close</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_close35'>
           <include>
-            <pose>10.572825728893193 -35.69647776431092 0 0 0 0</pose>
+            <pose>-44.18760369919907 54.30691925842513 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_close</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_close36'>
           <include>
-            <pose>65.686985235595 -21.02777526353933 0 0 0 0</pose>
+            <pose>-13.162729448385333 51.77515612908182 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_close</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_close37'>
           <include>
-            <pose>24.704792720021402 -26.394395097011973 0 0 0 0</pose>
+            <pose>-50.23506658861525 50.13366451504499 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_close</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_close38'>
           <include>
-            <pose>17.436732537284076 -43.878794136855205 0 0 0 0</pose>
+            <pose>-9.238486502402248 58.53602799443141 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_close</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_close39'>
           <include>
-            <pose>45.78970349868276 -77.59395243313188 0 0 0 0</pose>
+            <pose>-4.9398394813924575 -12.385439798706933 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_close</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_close40'>
           <include>
-            <pose>67.66255265364215 -42.43970815772329 0 0 0 0</pose>
+            <pose>2.622370651025239 19.201876091764603 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_close</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_close41'>
           <include>
-            <pose>26.22989553393052 -78.34526328778855 0 0 0 0</pose>
+            <pose>-54.381017399599706 11.538976789484037 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_close</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_close42'>
           <include>
-            <pose>70.19340905077814 -73.21100442426575 0 0 0 0</pose>
+            <pose>-40.70526752358451 44.99282819609598 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_close</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_close43'>
           <include>
-            <pose>53.45211219352795 -84.96343258851411 0 0 0 0</pose>
+            <pose>-54.092670967088736 20.422909941919638 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_close</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_close44'>
           <include>
-            <pose>18.499503553918437 -27.374456830011354 0 0 0 0</pose>
+            <pose>9.609814373522788 45.53384538216971 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_close</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_close45'>
           <include>
-            <pose>7.97820207626512 -60.31628732774324 0 0 0 0</pose>
+            <pose>-62.42897421936346 21.329219759876207 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_close</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_close46'>
           <include>
-            <pose>23.872283088140584 -32.56288971572286 0 0 0 0</pose>
+            <pose>-22.01376004265167 59.899716120790856 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_close</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_close47'>
           <include>
-            <pose>15.237424200204227 -67.29333283162961 0 0 0 0</pose>
+            <pose>-5.286715255111819 -9.144135848300351 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_close</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_close48'>
           <include>
-            <pose>78.34209802784298 -67.2900871556734 0 0 0 0</pose>
+            <pose>-9.25062089827157 -16.423446208936006 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_close</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_close49'>
           <include>
-            <pose>68.80079105797363 -84.9117613455737 0 0 0 0</pose>
+            <pose>-7.491223310742392 -5.475218322637954 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_close</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_close50'>
           <include>
-            <pose>31.57731364961096 -77.47028154693731 0 0 0 0</pose>
+            <pose>-50.53917832009546 45.07015574619891 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_close</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_close51'>
           <include>
-            <pose>12.665872264980742 -62.78920541751269 0 0 0 0</pose>
+            <pose>8.774227851597793 10.714928346447659 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_close</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_close52'>
           <include>
-            <pose>15.67582518105446 -59.5894397690144 0 0 0 0</pose>
+            <pose>-55.25068814520601 12.445705817314087 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_close</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_close53'>
           <include>
-            <pose>49.23611344870751 -14.74311690409781 0 0 0 0</pose>
+            <pose>-3.7122779840341416 -11.764439494802872 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_close</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_close54'>
           <include>
-            <pose>35.02912100775876 -78.05332435158054 0 0 0 0</pose>
+            <pose>-21.395118471169937 51.77393211702454 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_close</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_close55'>
           <include>
-            <pose>51.315937819620586 -20.311191836550375 0 0 0 0</pose>
+            <pose>11.512130399607699 28.26174673188812 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_close</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_close56'>
           <include>
-            <pose>81.4748201495186 -50.69135044381396 0 0 0 0</pose>
+            <pose>-48.0324359183567 4.539413253750293 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_close</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_close57'>
           <include>
-            <pose>59.90661076153616 -20.78151861242786 0 0 0 0</pose>
+            <pose>-50.57384466261084 3.392793648026025 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_close</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_close58'>
           <include>
-            <pose>64.68178331326551 -35.84161996681918 0 0 0 0</pose>
+            <pose>-21.215034642027252 -17.826860120872603 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_close</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_close59'>
           <include>
-            <pose>20.811866427987656 -77.75303134060788 0 0 0 0</pose>
+            <pose>-31.02281368487039 48.209497484026286 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_close</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_close60'>
           <include>
-            <pose>80.41305345329283 -69.75983281836162 0 0 0 0</pose>
+            <pose>-16.755750034263635 47.263701965303 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_close</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_close61'>
           <include>
-            <pose>12.756128733696201 -64.62334338820422 0 0 0 0</pose>
+            <pose>7.281015237555149 11.83618203115666 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_close</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_close62'>
           <include>
-            <pose>12.083625656872961 -78.7810179398339 0 0 0 0</pose>
+            <pose>-23.999999999999996 53.1058992551891 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_close</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_close63'>
           <include>
-            <pose>18.657934315429664 -52.44234740193933 0 0 0 0</pose>
+            <pose>-50.20442592958664 52.144743718759514 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_close</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_close64'>
           <include>
-            <pose>66.67336951954331 -28.521038546737774 0 0 0 0</pose>
+            <pose>-36.91178796640057 47.34081070771274 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_close</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_close65'>
           <include>
-            <pose>4.662126083965141 -64.78165004324642 0 0 0 0</pose>
+            <pose>-19.915778478258524 60.858772069627996 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_close</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_close66'>
           <include>
-            <pose>51.86877328298014 -11.518670806284632 0 0 0 0</pose>
+            <pose>-63.74596247474847 9.848439807364805 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_close</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_close67'>
           <include>
-            <pose>7.748078517264368 -53.89988269965334 0 0 0 0</pose>
+            <pose>-52.5574687501732 41.99615489105949 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_close</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_close68'>
           <include>
-            <pose>66.14723593220124 -20.37046914857946 0 0 0 0</pose>
+            <pose>-29.067188233263806 -14.054917732586723 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_close</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_close69'>
           <include>
-            <pose>26.874197658491962 -26.609953894016083 0 0 0 0</pose>
+            <pose>14.110674810525815 18.665747994755993 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_close</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_close70'>
           <include>
-            <pose>44.71975781765398 -10.765102243164542 0 0 0 0</pose>
+            <pose>-49.96590263875365 17.4215107863386 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_close</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_close71'>
           <include>
-            <pose>58.84791636431347 -27.28891743921659 0 0 0 0</pose>
+            <pose>8.925821016708625 20.274430839443397 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_close</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_close72'>
           <include>
-            <pose>53.66017848819042 -80.05519544569262 0 0 0 0</pose>
+            <pose>7.629850270203555 25.324431224217594 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_close</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_close73'>
           <include>
-            <pose>48.1126526099403 -18.50513240673233 0 0 0 0</pose>
+            <pose>6.046938649100259 20.950737781502088 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_close</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_close74'>
           <include>
-            <pose>55.332017714112325 -80.04772806688001 0 0 0 0</pose>
+            <pose>-15.075207548176287 -3.919479319585534 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_close</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_close75'>
           <include>
-            <pose>48.983473888024044 -87.45925921513857 0 0 0 0</pose>
+            <pose>-20.44174154213885 -11.854567790411146 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_close</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_close76'>
           <include>
-            <pose>37.89193288957791 -20.576718817261867 0 0 0 0</pose>
+            <pose>-33.038801469082635 -14.252652594212414 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_close</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_close77'>
           <include>
-            <pose>78.61141196334206 -65.9839181463749 0 0 0 0</pose>
+            <pose>-24.714883616574323 62.9556549640016 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_close</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_close78'>
           <include>
-            <pose>14.96290286471525 -68.0955257700016 0 0 0 0</pose>
+            <pose>-24.667028764180706 -16.21405230652565 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_close</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_close79'>
           <include>
-            <pose>58.745048711633764 -75.59701058561978 0 0 0 0</pose>
+            <pose>-63.03868017544893 11.539617173411578 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_close</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_close80'>
           <include>
-            <pose>50.206073464307096 -87.19639160933683 0 0 0 0</pose>
+            <pose>15.334120587010268 11.460454153722203 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_close</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_close81'>
           <include>
-            <pose>10.756429528288947 -64.76101110025522 0 0 0 0</pose>
+            <pose>-12.646238087829348 -7.577561000532743 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_close</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_close82'>
           <include>
-            <pose>27.91458338566473 -74.97235567537939 0 0 0 0</pose>
+            <pose>-49.03528083799556 6.957285658153172 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_close</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_close83'>
           <include>
-            <pose>68.8789700320727 -67.54610588011285 0 0 0 0</pose>
+            <pose>-55.67305675211435 -0.17771309597441842 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_close</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_close84'>
           <include>
-            <pose>72.75277684987641 -67.93792446228812 0 0 0 0</pose>
+            <pose>-7.279246838970593 49.82800641534881 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_close</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_close85'>
           <include>
-            <pose>64.29398503803051 -74.5387537589931 0 0 0 0</pose>
+            <pose>7.120665934371907 13.6612426949663 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_close</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_close86'>
           <include>
-            <pose>69.5364129673265 -38.98854770434761 0 0 0 0</pose>
+            <pose>-17.13640051199743 57.31015831001537 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_close</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_close87'>
           <include>
-            <pose>62.654973076982856 -85.65446230417973 0 0 0 0</pose>
+            <pose>-5.2598047401710915 48.76377250628268 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_close</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_close88'>
           <include>
-            <pose>30.471437190352006 -79.73766429966805 0 0 0 0</pose>
+            <pose>-23.46067692486634 -8.897798280991214 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_close</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_close89'>
           <include>
-            <pose>50.63167359025245 -23.275065837694136 0 0 0 0</pose>
+            <pose>7.729596932907988 4.4119972211410925 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_close</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_close90'>
           <include>
-            <pose>45.10328670323219 -20.40600252256998 0 0 0 0</pose>
+            <pose>-0.2852086785522623 -1.7147913214477484 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_close</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_close91'>
           <include>
-            <pose>34.177897825515586 -17.74625900782185 0 0 0 0</pose>
+            <pose>-22.786793864478646 56.741678181176646 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_close</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_close92'>
           <include>
-            <pose>71.24422056890914 -42.61906255557031 0 0 0 0</pose>
+            <pose>-38.15577926271481 -7.023648602892685 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_close</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_close93'>
           <include>
-            <pose>28.49055820500706 -31.418275579731464 0 0 0 0</pose>
+            <pose>-16.677842864403523 -12.448040926459683 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_close</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_close94'>
           <include>
-            <pose>16.292040187357898 -79.70795981264209 0 0 0 0</pose>
+            <pose>-20.070307201724344 46.81110385732053 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_close</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_close95'>
           <include>
-            <pose>36.81425702034397 -88.96744290371993 0 0 0 0</pose>
+            <pose>-23.329609137711905 -16.40666677809741 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_close</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_close96'>
           <include>
-            <pose>70.22242661460429 -82.16545113811216 0 0 0 0</pose>
+            <pose>16.973234977350593 26.3064605286553 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_close</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_close97'>
           <include>
-            <pose>79.99256844798224 -64.39323518985863 0 0 0 0</pose>
+            <pose>-15.982150624520026 -2.676403026465618 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_close</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_close98'>
           <include>
-            <pose>73.7037471733642 -78.74537408569765 0 0 0 0</pose>
+            <pose>5.706280851724667 29.959773964351747 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_close</uri>
           </include>
         </model>
 			<model name='MRS_tree_simples_close99'>
           <include>
-            <pose>3.8462222771703196 -41.988538793757876 0 0 0 0</pose>
+            <pose>7.094876365549041 10.682390564752522 0 0 0 0</pose>
             <uri>model://MRS_tree_simples_close</uri>
           </include>
         </model>
 			<model name='MRS_tree_simple0'>
           <include>
-            <pose>-1.9785714914670436 -93.3992917219543 0 0 0 0</pose>
+            <pose>-10.219041348661502 64.41342956771737 0 0 0 0</pose>
             <uri>model://MRS_tree_simple</uri>
           </include>
         </model>
 			<model name='MRS_tree_simple1'>
           <include>
-            <pose>89.18625331370473 -26.952850786975798 0 0 0 0</pose>
+            <pose>-19.21176147794534 -23.557046392576353 0 0 0 0</pose>
             <uri>model://MRS_tree_simple</uri>
           </include>
         </model>
 			<model name='MRS_tree_simple2'>
           <include>
-            <pose>4.416412418520949 -37.592752354872324 0 0 0 0</pose>
+            <pose>-68.4455377704437 56.72465982240909 0 0 0 0</pose>
             <uri>model://MRS_tree_simple</uri>
           </include>
         </model>
 			<model name='MRS_tree_simple3'>
           <include>
-            <pose>0.6963711612809931 -18.167497212727056 0 0 0 0</pose>
+            <pose>1.10537353769395 -31.83864729356219 0 0 0 0</pose>
             <uri>model://MRS_tree_simple</uri>
           </include>
         </model>
 			<model name='MRS_tree_simple4'>
           <include>
-            <pose>84.98572524899276 -16.371652601270938 0 0 0 0</pose>
+            <pose>-1.440736572345461 -33.83613633254281 0 0 0 0</pose>
             <uri>model://MRS_tree_simple</uri>
           </include>
         </model>
 			<model name='MRS_tree_simple5'>
           <include>
-            <pose>96.5570557050703 -49.24560142484217 0 0 0 0</pose>
+            <pose>26.162661674908726 34.506956252703155 0 0 0 0</pose>
             <uri>model://MRS_tree_simple</uri>
           </include>
         </model>
 			<model name='MRS_tree_simple6'>
           <include>
-            <pose>14.722740348325875 -93.8122600144097 0 0 0 0</pose>
+            <pose>3.768207063893417 -32.49817490263958 0 0 0 0</pose>
             <uri>model://MRS_tree_simple</uri>
           </include>
         </model>
 			<model name='MRS_tree_simple7'>
           <include>
-            <pose>27.995273234040077 -98.48110156793021 0 0 0 0</pose>
+            <pose>-42.16059042600719 69.30995552717428 0 0 0 0</pose>
             <uri>model://MRS_tree_simple</uri>
           </include>
         </model>
 			<model name='MRS_tree_simple8'>
           <include>
-            <pose>-5.618779279304242 -58.97346465682715 0 0 0 0</pose>
+            <pose>-2.6528011937771794 -23.779215573438208 0 0 0 0</pose>
             <uri>model://MRS_tree_simple</uri>
           </include>
         </model>
 			<model name='MRS_tree_simple9'>
           <include>
-            <pose>52.82945659197245 -97.42361636906733 0 0 0 0</pose>
+            <pose>-72.48537640516665 -7.132953280592705 0 0 0 0</pose>
             <uri>model://MRS_tree_simple</uri>
           </include>
         </model>
 			<model name='MRS_tree_simple10'>
           <include>
-            <pose>7.305733384090232 -22.285568784635686 0 0 0 0</pose>
+            <pose>-78.35663846654965 48.51150398502893 0 0 0 0</pose>
             <uri>model://MRS_tree_simple</uri>
           </include>
         </model>
 			<model name='MRS_tree_simple11'>
           <include>
-            <pose>11.543346103343104 -79.23436631393344 0 0 0 0</pose>
+            <pose>-18.126726207457406 77.88046740168433 0 0 0 0</pose>
             <uri>model://MRS_tree_simple</uri>
           </include>
         </model>
 			<model name='MRS_tree_simple12'>
           <include>
-            <pose>12.807073413056994 -20.80707341305699 0 0 0 0</pose>
+            <pose>-28.840625522853003 68.05547541083519 0 0 0 0</pose>
             <uri>model://MRS_tree_simple</uri>
           </include>
         </model>
 			<model name='MRS_tree_simple13'>
           <include>
-            <pose>91.00943857376302 -28.04749468022266 0 0 0 0</pose>
+            <pose>1.3908779977897048 71.83240390246166 0 0 0 0</pose>
             <uri>model://MRS_tree_simple</uri>
           </include>
         </model>
 			<model name='MRS_tree_simple14'>
           <include>
-            <pose>85.07847506333354 -37.04865780790014 0 0 0 0</pose>
+            <pose>-19.75294496044788 82.73571669452137 0 0 0 0</pose>
             <uri>model://MRS_tree_simple</uri>
           </include>
         </model>
 			<model name='MRS_tree_simple15'>
           <include>
-            <pose>47.98785837372407 5.029031681661962 0 0 0 0</pose>
+            <pose>-24.9950638043808 -35.00716717313358 0 0 0 0</pose>
             <uri>model://MRS_tree_simple</uri>
           </include>
         </model>
 			<model name='MRS_tree_simple16'>
           <include>
-            <pose>71.0773438906715 -19.730478140383354 0 0 0 0</pose>
+            <pose>-29.164981061564408 81.03600367645296 0 0 0 0</pose>
             <uri>model://MRS_tree_simple</uri>
           </include>
         </model>
 			<model name='MRS_tree_simple17'>
           <include>
-            <pose>4.852812328179276 -72.81492890812905 0 0 0 0</pose>
+            <pose>-66.44888237211714 12.977211516247559 0 0 0 0</pose>
             <uri>model://MRS_tree_simple</uri>
           </include>
         </model>
 			<model name='MRS_tree_simple18'>
           <include>
-            <pose>0.7320525691773838 -45.919086552213 0 0 0 0</pose>
+            <pose>11.46877614041535 55.075168837776864 0 0 0 0</pose>
             <uri>model://MRS_tree_simple</uri>
           </include>
         </model>
 			<model name='MRS_tree_simple19'>
           <include>
-            <pose>21.650113561023527 -8.135878078017662 0 0 0 0</pose>
+            <pose>13.627916560657532 -26.161536938672953 0 0 0 0</pose>
             <uri>model://MRS_tree_simple</uri>
           </include>
         </model>
 			<model name='MRS_tree_simple20'>
           <include>
-            <pose>90.13883486043827 -53.61120361677917 0 0 0 0</pose>
+            <pose>-46.18344311304077 -30.26091693997372 0 0 0 0</pose>
             <uri>model://MRS_tree_simple</uri>
           </include>
         </model>
 			<model name='MRS_tree_simple21'>
           <include>
-            <pose>55.09001417840409 0.17441461826280147 0 0 0 0</pose>
+            <pose>28.73521435858966 -6.039810855151966 0 0 0 0</pose>
             <uri>model://MRS_tree_simple</uri>
           </include>
         </model>
 			<model name='MRS_tree_simple22'>
           <include>
-            <pose>58.86242967467572 -11.165810070596173 0 0 0 0</pose>
+            <pose>-56.9899397365124 72.80005235860993 0 0 0 0</pose>
             <uri>model://MRS_tree_simple</uri>
           </include>
         </model>
 			<model name='MRS_tree_simple23'>
           <include>
-            <pose>0.7432047056736977 -74.04043806603009 0 0 0 0</pose>
+            <pose>-75.27910793238294 14.793191368388875 0 0 0 0</pose>
             <uri>model://MRS_tree_simple</uri>
           </include>
         </model>
 			<model name='MRS_tree_simple24'>
           <include>
-            <pose>9.630300618507356 -82.94661632439694 0 0 0 0</pose>
+            <pose>-58.461538398491676 67.73200607679128 0 0 0 0</pose>
             <uri>model://MRS_tree_simple</uri>
           </include>
         </model>
 			<model name='MRS_tree_simple25'>
           <include>
-            <pose>-0.9626715732487412 -91.08545409541176 0 0 0 0</pose>
+            <pose>10.372019753420545 -10.052426961086347 0 0 0 0</pose>
             <uri>model://MRS_tree_simple</uri>
           </include>
         </model>
 			<model name='MRS_tree_simple26'>
           <include>
-            <pose>45.9943723526751 5.11135183164825 0 0 0 0</pose>
+            <pose>-58.875260916301855 -26.00167859691279 0 0 0 0</pose>
             <uri>model://MRS_tree_simple</uri>
           </include>
         </model>
 			<model name='MRS_tree_simple27'>
           <include>
-            <pose>-13.976045727409392 -46.92775324279109 0 0 0 0</pose>
+            <pose>-42.8853506251299 76.84704071422416 0 0 0 0</pose>
             <uri>model://MRS_tree_simple</uri>
           </include>
         </model>
 			<model name='MRS_tree_simple28'>
           <include>
-            <pose>0.5693972129717153 -84.72730662857087 0 0 0 0</pose>
+            <pose>25.60293203277576 21.13417760073793 0 0 0 0</pose>
             <uri>model://MRS_tree_simple</uri>
           </include>
         </model>
 			<model name='MRS_tree_simple29'>
           <include>
-            <pose>77.22589171154968 -87.6304066341343 0 0 0 0</pose>
+            <pose>-40.9410830328005 -17.91069054243969 0 0 0 0</pose>
             <uri>model://MRS_tree_simple</uri>
           </include>
         </model>
 			<model name='MRS_tree_simple30'>
           <include>
-            <pose>61.93912857982711 -9.738061494397797 0 0 0 0</pose>
+            <pose>-43.05816599819079 -20.80534167510747 0 0 0 0</pose>
             <uri>model://MRS_tree_simple</uri>
           </include>
         </model>
 			<model name='MRS_tree_simple31'>
           <include>
-            <pose>21.026326758614687 2.12258245737943 0 0 0 0</pose>
+            <pose>24.542430891533947 50.02598554234592 0 0 0 0</pose>
             <uri>model://MRS_tree_simple</uri>
           </include>
         </model>
 			<model name='MRS_tree_simple32'>
           <include>
-            <pose>28.082938275257977 -93.46536344118164 0 0 0 0</pose>
+            <pose>-28.93913962265017 -24.99277446018519 0 0 0 0</pose>
             <uri>model://MRS_tree_simple</uri>
           </include>
         </model>
 			<model name='MRS_tree_simple33'>
           <include>
-            <pose>45.50465211506859 -95.08759906977832 0 0 0 0</pose>
+            <pose>-2.4073931488604607 -34.250663986136054 0 0 0 0</pose>
             <uri>model://MRS_tree_simple</uri>
           </include>
         </model>
 			<model name='MRS_tree_simple34'>
           <include>
-            <pose>92.42053054983701 -60.537845956154754 0 0 0 0</pose>
+            <pose>-52.352517347395015 -14.28956733040738 0 0 0 0</pose>
             <uri>model://MRS_tree_simple</uri>
           </include>
         </model>
 			<model name='MRS_tree_simple35'>
           <include>
-            <pose>85.67928105756107 -19.436576786593832 0 0 0 0</pose>
+            <pose>20.82127933817589 5.686388459173234 0 0 0 0</pose>
             <uri>model://MRS_tree_simple</uri>
           </include>
         </model>
 			<model name='MRS_tree_simple36'>
           <include>
-            <pose>90.16645232972982 -74.5168832996816 0 0 0 0</pose>
+            <pose>-84.90215539955719 13.440760244971472 0 0 0 0</pose>
             <uri>model://MRS_tree_simple</uri>
           </include>
         </model>
 			<model name='MRS_tree_simple37'>
           <include>
-            <pose>-9.380546213973929 -30.432859380148933 0 0 0 0</pose>
+            <pose>-36.45561589130502 -31.951199732537965 0 0 0 0</pose>
             <uri>model://MRS_tree_simple</uri>
           </include>
         </model>
 			<model name='MRS_tree_simple38'>
           <include>
-            <pose>-1.5611470595388894 -54.38775853897848 0 0 0 0</pose>
+            <pose>-69.69230770838598 30.056786659821817 0 0 0 0</pose>
             <uri>model://MRS_tree_simple</uri>
           </include>
         </model>
 			<model name='MRS_tree_simple39'>
           <include>
-            <pose>97.70522021949363 -52.0 0 0 0 0</pose>
+            <pose>-78.47550201040735 16.274394020482312 0 0 0 0</pose>
             <uri>model://MRS_tree_simple</uri>
           </include>
         </model>
 			<model name='MRS_tree_simple40'>
           <include>
-            <pose>30.02454614458631 -95.01202425535912 0 0 0 0</pose>
+            <pose>-30.381600751484257 82.71687535096189 0 0 0 0</pose>
             <uri>model://MRS_tree_simple</uri>
           </include>
         </model>
 			<model name='MRS_tree_simple41'>
           <include>
-            <pose>-7.041390775462858 -27.105450353081828 0 0 0 0</pose>
+            <pose>-14.508882978713546 -31.826799410686178 0 0 0 0</pose>
             <uri>model://MRS_tree_simple</uri>
           </include>
         </model>
 			<model name='MRS_tree_simple42'>
           <include>
-            <pose>34.632523698242665 -96.07051105907335 0 0 0 0</pose>
+            <pose>-64.08000563655708 62.08000563655709 0 0 0 0</pose>
             <uri>model://MRS_tree_simple</uri>
           </include>
         </model>
 			<model name='MRS_tree_simple43'>
           <include>
-            <pose>98.33965807427822 -54.84782080667273 0 0 0 0</pose>
+            <pose>-64.48578591372906 -19.92425859130168 0 0 0 0</pose>
             <uri>model://MRS_tree_simple</uri>
           </include>
         </model>
 			<model name='MRS_tree_simple44'>
           <include>
-            <pose>82.16234227499383 -34.204607544038126 0 0 0 0</pose>
+            <pose>-63.39365151066886 -21.75108237256879 0 0 0 0</pose>
             <uri>model://MRS_tree_simple</uri>
           </include>
         </model>
 			<model name='MRS_tree_simple45'>
           <include>
-            <pose>9.83276053864001 -25.305626911426316 0 0 0 0</pose>
+            <pose>17.86862286642232 -3.1572066533500056 0 0 0 0</pose>
             <uri>model://MRS_tree_simple</uri>
           </include>
         </model>
 			<model name='MRS_tree_simple46'>
           <include>
-            <pose>93.69517783481521 -56.347764692451115 0 0 0 0</pose>
+            <pose>27.455777861783687 32.001990007695284 0 0 0 0</pose>
             <uri>model://MRS_tree_simple</uri>
           </include>
         </model>
 			<model name='MRS_tree_simple47'>
           <include>
-            <pose>101.53146088778854 -65.28218430797484 0 0 0 0</pose>
+            <pose>4.997141071251622 76.535690632084 0 0 0 0</pose>
             <uri>model://MRS_tree_simple</uri>
           </include>
         </model>
 			<model name='MRS_tree_simple48'>
           <include>
-            <pose>14.397336360933672 -84.87708870982617 0 0 0 0</pose>
+            <pose>35.09735766512813 30.30559197496288 0 0 0 0</pose>
             <uri>model://MRS_tree_simple</uri>
           </include>
         </model>
 			<model name='MRS_tree_simple49'>
           <include>
-            <pose>12.957136487102069 -96.33380364951266 0 0 0 0</pose>
+            <pose>-28.947362029744205 -34.548606760671724 0 0 0 0</pose>
             <uri>model://MRS_tree_simple</uri>
           </include>
         </model>
 			<model name='MRS_tree_simple50'>
           <include>
-            <pose>81.96747063095705 -12.683533223690809 0 0 0 0</pose>
+            <pose>-77.07535232109784 53.89088905076073 0 0 0 0</pose>
             <uri>model://MRS_tree_simple</uri>
           </include>
         </model>
 			<model name='MRS_tree_simple51'>
           <include>
-            <pose>23.366963758030593 -94.30399347035467 0 0 0 0</pose>
+            <pose>-24.807072000095026 68.2371239187045 0 0 0 0</pose>
             <uri>model://MRS_tree_simple</uri>
           </include>
         </model>
 			<model name='MRS_tree_simple52'>
           <include>
-            <pose>30.53074826073179 -102.26793183088445 0 0 0 0</pose>
+            <pose>-7.531114151494343 -35.43383038204573 0 0 0 0</pose>
             <uri>model://MRS_tree_simple</uri>
           </include>
         </model>
 			<model name='MRS_tree_simple53'>
           <include>
-            <pose>29.912912042901453 -92.91187407978168 0 0 0 0</pose>
+            <pose>34.59806810463432 0.6720474244093744 0 0 0 0</pose>
             <uri>model://MRS_tree_simple</uri>
           </include>
         </model>
 			<model name='MRS_tree_simple54'>
           <include>
-            <pose>36.6021540536155 -104.63840905776686 0 0 0 0</pose>
+            <pose>-80.97073265679452 15.004873606418727 0 0 0 0</pose>
             <uri>model://MRS_tree_simple</uri>
           </include>
         </model>
 			<model name='MRS_tree_simple55'>
           <include>
-            <pose>67.9005249197357 -13.751164708740873 0 0 0 0</pose>
+            <pose>-69.74853185015755 7.1354009281453745 0 0 0 0</pose>
             <uri>model://MRS_tree_simple</uri>
           </include>
         </model>
 			<model name='MRS_tree_simple56'>
           <include>
-            <pose>-4.6818707439334375 -20.385623487829868 0 0 0 0</pose>
+            <pose>-83.04653468237001 2.8146178873985797 0 0 0 0</pose>
             <uri>model://MRS_tree_simple</uri>
           </include>
         </model>
 			<model name='MRS_tree_simple57'>
           <include>
-            <pose>15.687401569610024 -4.879923340272491 0 0 0 0</pose>
+            <pose>-39.32163452059926 -17.91422254284813 0 0 0 0</pose>
             <uri>model://MRS_tree_simple</uri>
           </include>
         </model>
 			<model name='MRS_tree_simple58'>
           <include>
-            <pose>96.96676286874936 -81.35995608430018 0 0 0 0</pose>
+            <pose>-45.75240346675517 -18.91032088481775 0 0 0 0</pose>
             <uri>model://MRS_tree_simple</uri>
           </include>
         </model>
 			<model name='MRS_tree_simple59'>
           <include>
-            <pose>40.85110158768281 -97.03134527083796 0 0 0 0</pose>
+            <pose>-21.34935837911574 -28.577255078273957 0 0 0 0</pose>
             <uri>model://MRS_tree_simple</uri>
           </include>
         </model>
 			<model name='MRS_tree_simple60'>
           <include>
-            <pose>91.02051177624465 -45.391698026832955 0 0 0 0</pose>
+            <pose>24.631794745080747 53.58185677827823 0 0 0 0</pose>
             <uri>model://MRS_tree_simple</uri>
           </include>
         </model>
 			<model name='MRS_tree_simple61'>
           <include>
-            <pose>88.2444380741145 -73.57945431152984 0 0 0 0</pose>
+            <pose>12.484683205402476 58.48468320540247 0 0 0 0</pose>
             <uri>model://MRS_tree_simple</uri>
           </include>
         </model>
 			<model name='MRS_tree_simple62'>
           <include>
-            <pose>8.624114269605954 -27.229538140732796 0 0 0 0</pose>
+            <pose>-50.635899910961896 -22.329581715755836 0 0 0 0</pose>
             <uri>model://MRS_tree_simple</uri>
           </include>
         </model>
 			<model name='MRS_tree_simple63'>
           <include>
-            <pose>87.38831111464347 -19.304562432440335 0 0 0 0</pose>
+            <pose>23.540848362878535 -17.891508327146404 0 0 0 0</pose>
             <uri>model://MRS_tree_simple</uri>
           </include>
         </model>
 			<model name='MRS_tree_simple64'>
           <include>
-            <pose>36.71158767129184 -98.01722437995736 0 0 0 0</pose>
+            <pose>21.603468099544344 27.599401806252168 0 0 0 0</pose>
             <uri>model://MRS_tree_simple</uri>
           </include>
         </model>
 			<model name='MRS_tree_simple65'>
           <include>
-            <pose>28.844135301930372 -2.4274002669275987 0 0 0 0</pose>
+            <pose>-67.43449694160662 53.55700921059599 0 0 0 0</pose>
             <uri>model://MRS_tree_simple</uri>
           </include>
         </model>
 			<model name='MRS_tree_simple66'>
           <include>
-            <pose>82.08219247145314 -86.28936011702515 0 0 0 0</pose>
+            <pose>-72.29126699811502 9.06039400637935 0 0 0 0</pose>
             <uri>model://MRS_tree_simple</uri>
           </include>
         </model>
 			<model name='MRS_tree_simple67'>
           <include>
-            <pose>62.01261537911029 -11.543003464325665 0 0 0 0</pose>
+            <pose>-74.17658923472752 10.415821606528056 0 0 0 0</pose>
             <uri>model://MRS_tree_simple</uri>
           </include>
         </model>
 			<model name='MRS_tree_simple68'>
           <include>
-            <pose>8.951514883780888 -89.58489877239917 0 0 0 0</pose>
+            <pose>-35.68875800550214 -21.623038753911473 0 0 0 0</pose>
             <uri>model://MRS_tree_simple</uri>
           </include>
         </model>
 			<model name='MRS_tree_simple69'>
           <include>
-            <pose>103.97246937635718 -49.905715221057335 0 0 0 0</pose>
+            <pose>-78.3099440877892 9.461561448321637 0 0 0 0</pose>
             <uri>model://MRS_tree_simple</uri>
           </include>
         </model>
 			<model name='MRS_tree_simple70'>
           <include>
-            <pose>8.445960699257313 -91.48676100013381 0 0 0 0</pose>
+            <pose>-26.050419645082695 -36.716336292854336 0 0 0 0</pose>
             <uri>model://MRS_tree_simple</uri>
           </include>
         </model>
 			<model name='MRS_tree_simple71'>
           <include>
-            <pose>-7.563677751236376 -27.95546218196196 0 0 0 0</pose>
+            <pose>-34.406990117236475 70.96103905459543 0 0 0 0</pose>
             <uri>model://MRS_tree_simple</uri>
           </include>
         </model>
 			<model name='MRS_tree_simple72'>
           <include>
-            <pose>70.93389115037296 -87.74248077719025 0 0 0 0</pose>
+            <pose>-62.88970195118549 70.02478235801462 0 0 0 0</pose>
             <uri>model://MRS_tree_simple</uri>
           </include>
         </model>
 			<model name='MRS_tree_simple73'>
           <include>
-            <pose>87.20870968481998 -37.96063917459246 0 0 0 0</pose>
+            <pose>0.8774536288526562 -24.78768543020938 0 0 0 0</pose>
             <uri>model://MRS_tree_simple</uri>
           </include>
         </model>
 			<model name='MRS_tree_simple74'>
           <include>
-            <pose>-13.342479894999457 -69.53135545482772 0 0 0 0</pose>
+            <pose>-80.22008761899565 -3.0307956985361457 0 0 0 0</pose>
             <uri>model://MRS_tree_simple</uri>
           </include>
         </model>
 			<model name='MRS_tree_simple75'>
           <include>
-            <pose>9.970420130723554 -100.59927666057871 0 0 0 0</pose>
+            <pose>30.511335434507558 26.76912388417841 0 0 0 0</pose>
             <uri>model://MRS_tree_simple</uri>
           </include>
         </model>
 			<model name='MRS_tree_simple76'>
           <include>
-            <pose>81.78931983734017 -79.45554796622427 0 0 0 0</pose>
+            <pose>-55.522958360359624 -5.402489639393753 0 0 0 0</pose>
             <uri>model://MRS_tree_simple</uri>
           </include>
         </model>
 			<model name='MRS_tree_simple77'>
           <include>
-            <pose>12.243954393852519 -104.85093514289852 0 0 0 0</pose>
+            <pose>-0.8753907191255479 -35.235416421480835 0 0 0 0</pose>
             <uri>model://MRS_tree_simple</uri>
           </include>
         </model>
 			<model name='MRS_tree_simple78'>
           <include>
-            <pose>71.5083737499771 -20.35523590399861 0 0 0 0</pose>
+            <pose>-70.62856276184174 36.25578226861578 0 0 0 0</pose>
             <uri>model://MRS_tree_simple</uri>
           </include>
         </model>
 			<model name='MRS_tree_simple79'>
           <include>
-            <pose>-6.008612312870859 -87.01640731687908 0 0 0 0</pose>
+            <pose>-43.753528516075484 -32.2723735524704 0 0 0 0</pose>
             <uri>model://MRS_tree_simple</uri>
           </include>
         </model>
 			<model name='MRS_tree_simple80'>
           <include>
-            <pose>102.12592740613604 -46.91464029503228 0 0 0 0</pose>
+            <pose>20.2284789572769 35.52200301148829 0 0 0 0</pose>
             <uri>model://MRS_tree_simple</uri>
           </include>
         </model>
 			<model name='MRS_tree_simple81'>
           <include>
-            <pose>18.011568572984654 -89.11532654084607 0 0 0 0</pose>
+            <pose>15.711070458062352 40.5175762681272 0 0 0 0</pose>
             <uri>model://MRS_tree_simple</uri>
           </include>
         </model>
 			<model name='MRS_tree_simple82'>
           <include>
-            <pose>69.56435506696164 -16.813683877328373 0 0 0 0</pose>
+            <pose>-70.56802808261007 9.522134482154787 0 0 0 0</pose>
             <uri>model://MRS_tree_simple</uri>
           </include>
         </model>
 			<model name='MRS_tree_simple83'>
           <include>
-            <pose>43.99999999999999 -104.42256559389793 0 0 0 0</pose>
+            <pose>26.592510873186086 27.317487165496644 0 0 0 0</pose>
             <uri>model://MRS_tree_simple</uri>
           </include>
         </model>
 			<model name='MRS_tree_simple84'>
           <include>
-            <pose>74.21941038174623 -100.36116588117011 0 0 0 0</pose>
+            <pose>-74.55201332774682 -10.828861306460539 0 0 0 0</pose>
             <uri>model://MRS_tree_simple</uri>
           </include>
         </model>
 			<model name='MRS_tree_simple85'>
           <include>
-            <pose>39.65391282343182 10.151942234677016 0 0 0 0</pose>
+            <pose>-66.31661955386164 21.261360658144657 0 0 0 0</pose>
             <uri>model://MRS_tree_simple</uri>
           </include>
         </model>
 			<model name='MRS_tree_simple86'>
           <include>
-            <pose>86.76283252038414 -61.08952064780388 0 0 0 0</pose>
+            <pose>-76.60884553297515 20.162858631916016 0 0 0 0</pose>
             <uri>model://MRS_tree_simple</uri>
           </include>
         </model>
 			<model name='MRS_tree_simple87'>
           <include>
-            <pose>12.94835267562965 -18.70118501462357 0 0 0 0</pose>
+            <pose>29.148088222514204 13.582169792557995 0 0 0 0</pose>
             <uri>model://MRS_tree_simple</uri>
           </include>
         </model>
 			<model name='MRS_tree_simple88'>
           <include>
-            <pose>19.280064887894213 -3.4843956535755254 0 0 0 0</pose>
+            <pose>33.88237853694037 12.832331870773732 0 0 0 0</pose>
             <uri>model://MRS_tree_simple</uri>
           </include>
         </model>
 			<model name='MRS_tree_simple89'>
           <include>
-            <pose>10.787598016470007 -0.8573858214362033 0 0 0 0</pose>
+            <pose>-7.9394277804933004 74.53176469852713 0 0 0 0</pose>
             <uri>model://MRS_tree_simple</uri>
           </include>
         </model>
 			<model name='MRS_tree_simple90'>
           <include>
-            <pose>-10.299027106610495 -26.679947829821664 0 0 0 0</pose>
+            <pose>36.039949742336006 8.138685407717146 0 0 0 0</pose>
             <uri>model://MRS_tree_simple</uri>
           </include>
         </model>
 			<model name='MRS_tree_simple91'>
           <include>
-            <pose>75.16126800146297 -93.35239933646726 0 0 0 0</pose>
+            <pose>18.168085192724682 40.774441132335156 0 0 0 0</pose>
             <uri>model://MRS_tree_simple</uri>
           </include>
         </model>
 			<model name='MRS_tree_simple92'>
           <include>
-            <pose>53.42483621345882 -111.5060739182899 0 0 0 0</pose>
+            <pose>26.839373440817475 8.377630942828693 0 0 0 0</pose>
             <uri>model://MRS_tree_simple</uri>
           </include>
         </model>
 			<model name='MRS_tree_simple93'>
           <include>
-            <pose>51.922792250340244 4.373596094811198 0 0 0 0</pose>
+            <pose>16.248672540931018 1.492277032028042 0 0 0 0</pose>
             <uri>model://MRS_tree_simple</uri>
           </include>
         </model>
 			<model name='MRS_tree_simple94'>
           <include>
-            <pose>-11.337404477269082 -25.01014446978547 0 0 0 0</pose>
+            <pose>-6.757552180216553 -28.075704515972923 0 0 0 0</pose>
             <uri>model://MRS_tree_simple</uri>
           </include>
         </model>
 			<model name='MRS_tree_simple95'>
           <include>
-            <pose>93.3072663281512 -34.053622723516774 0 0 0 0</pose>
+            <pose>32.02731726776714 18.082188321717435 0 0 0 0</pose>
             <uri>model://MRS_tree_simple</uri>
           </include>
         </model>
 			<model name='MRS_tree_simple96'>
           <include>
-            <pose>65.69623361074149 -5.472276872772788 0 0 0 0</pose>
+            <pose>-71.92840050090281 -3.4839825907787763 0 0 0 0</pose>
             <uri>model://MRS_tree_simple</uri>
           </include>
         </model>
 			<model name='MRS_tree_simple97'>
           <include>
-            <pose>16.73301804768771 3.9055978450992086 0 0 0 0</pose>
+            <pose>-62.847209003328366 45.34175804923291 0 0 0 0</pose>
             <uri>model://MRS_tree_simple</uri>
           </include>
         </model>
 			<model name='MRS_tree_simple98'>
           <include>
-            <pose>16.02277587385943 -7.227082204216899 0 0 0 0</pose>
+            <pose>-50.43635486299473 -10.646179449463745 0 0 0 0</pose>
             <uri>model://MRS_tree_simple</uri>
           </include>
         </model>
 			<model name='MRS_tree_simple99'>
           <include>
-            <pose>-0.37358975203139266 -16.06697552325938 0 0 0 0</pose>
+            <pose>-12.444800824096534 -37.4463463257309 0 0 0 0</pose>
             <uri>model://MRS_tree_simple</uri>
           </include>
         </model>
 			<model name='SARclandArea'>
           <include>
-            <pose>-115 112 0.02 0 0 0</pose>
+            <pose>110 -109 0.02 0 0 0</pose>
             <uri>model://SARclandArea</uri>
           </include>
         </model>
 			<model name='SARckc'>
           <include>
-            <pose>125 125 100 0 0 2.35619</pose>
+            <pose>0 0 100 0 0 -0.785398</pose>
             <uri>model://SARckc</uri>
+          </include>
+        </model>
+			<model name='SARckc_floor'>
+          <include>
+            <pose>0 0 100 0 0 -0.785398</pose>
+            <uri>model://SARckc_floor</uri>
           </include>
         </model>
 		<gui>

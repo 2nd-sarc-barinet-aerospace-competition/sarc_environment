@@ -242,6 +242,16 @@ def sarc_map():
 
       return model
 
+  def insertKcFloor(x, y, yaw):
+      model = "\t\t\t<model name='SARckc_floor'>\n\
+          <include>\n\
+            <pose>" + str(x) + " " + str(y) + " 100 0 0 " + str(yaw) + "</pose>\n\
+            <uri>model://SARckc_floor</uri>\n\
+          </include>\n\
+        </model>\n"
+
+      return model
+
   # generate fire area
   for i in range(quant):
       radius1 = random()
@@ -396,7 +406,8 @@ def sarc_map():
     y5[1] = -someY
   else:
     y5[1] = someY
-  f.write(insertKc(x5[0], y5[0], yaw))
+  f.write(insertKc(0, 0, yaw))
+  f.write(insertKcFloor(0, 0, yaw))
 
   def insertUAV(x, xkc, y, ykc, count):
     model = "uav_name:\n\
@@ -420,7 +431,7 @@ def sarc_map():
       ydrone[i] = (math.sin(angleradiusdrones[i]) * spawnCircleRadius)
       # print(ydrone[i])
       d = open(rospack.get_path('sarc_environment') + "/starts/start_map/pos/pos" + str(i + 1) + ".yaml", "w")
-      d.write(insertUAV(xdrone[i], x5[0], ydrone[i], y5[0],  i))
+      d.write(insertUAV(xdrone[i], 0, ydrone[i], 0,  i))
 
 
   f.write(endText)

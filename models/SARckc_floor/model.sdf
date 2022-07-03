@@ -1,6 +1,6 @@
 <?xml version='1.0'?>
 <sdf version='1.7'>
-  <model name='SARckc'>
+  <model name='SARckc_floor'>
     <link name='link_1'>
       <inertial>
         <pose>0 0 0 0 0 0</pose>
@@ -19,17 +19,14 @@
       <kinematic>0</kinematic>
       <pose>0 0 0 0 -0 0</pose>
       <gravity>1</gravity>
-      <visual name='visual'>
+      <collision name="collision_uav">
+        <pose>0 -1.34855 -1.71555 -0.06382599261 0 0</pose>
         <geometry>
-          <mesh>
-            <uri>model://SARckc/kc-390.dae</uri>
-            <scale>1.0 1.0 1.0</scale>
-          </mesh>
+          <box>
+            <size> 2.8 5.5 0.5</size>
+          </box>
         </geometry>
-        <pose>0 0 0 0 -0 0</pose>
-        <transparency>0</transparency>
-        <cast_shadows>1</cast_shadows>
-      </visual>
+      </collision>
     </link>
     <static>1</static>
     <allow_auto_disable>1</allow_auto_disable>

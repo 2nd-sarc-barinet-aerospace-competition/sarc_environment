@@ -10,6 +10,6 @@ install(
   DESTINATION ${CATKIN_PACKAGE_SHARE_DESTINATION}
 )
 
-catkin_install_python(PROGRAMS scripts/sarc_map.py
+catkin_install_python(PROGRAMS scripts/sarc_map.py scripts/sarc_low_map.py scripts/fall.py
   DESTINATION ${CATKIN_PACKAGE_BIN_DESTINATION}
 )
