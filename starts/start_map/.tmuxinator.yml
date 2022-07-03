@@ -10,7 +10,9 @@ windows:
   - gazebo:
       layout: tiled
       panes:
-        - waitForRos; roslaunch sarc_environment sarc_mrs.launch
+        - waitForRos; roslaunch sarc_environment sarc.launch
+        - waitForRos; roslaunch sarc_environment kcpath.launch
+        - waitForRos; roslaunch sarc_environment sarc_map.launch
   - status:
       layout: tiled
       panes:
@@ -19,7 +21,7 @@ windows:
       layout: tiled
       panes:
         # uav 1
-        - waitForSimulation; rosservice call /mrs_drone_spawner/spawn "1 $UAV_TYPE --enable-rangefinder --enable-ground-truth --pos_file `pwd`/pos/pos1.yaml"
+        # - waitForSimulation; rosservice call /mrs_drone_spawner/spawn "1 $UAV_TYPE --enable-rangefinder --enable-ground-truth --pos_file `pwd`/pos/pos1.yaml"
         # # uav 2
         # - waitForSimulation; rosservice call /mrs_drone_spawner/spawn "2 $UAV_TYPE --enable-rangefinder --enable-ground-truth --pos_file `pwd`/pos/pos2.yaml"
         # # uav 3
@@ -42,30 +44,20 @@ windows:
         # uav 1
         - export UAV_NAME=uav1; waitForSimulation; roslaunch mrs_uav_general automatic_start.launch
         - "export UAV_NAME=uav1; waitForControl;
-          rosservice call /$UAV_NAME/mavros/cmd/arming 1;
-          sleep 2;
-          rosservice call /$UAV_NAME/mavros/set_mode 0 offboard"
+          rosservice call /$UAV_NAME/mavros/cmd/arming 1"
       # # uav 2
       #   - export UAV_NAME=uav2; waitForSimulation; roslaunch mrs_uav_general automatic_start.launch
       #   - 'export UAV_NAME=uav2; waitForControl;
-      #     rosservice call /$UAV_NAME/mavros/cmd/arming 1;
-      #     sleep 2;
-      #     rosservice call /$UAV_NAME/mavros/set_mode 0 offboard'
+      #     rosservice call /$UAV_NAME/mavros/cmd/arming 1'
       # # uav 3
       #   - export UAV_NAME=uav3; waitForSimulation; roslaunch mrs_uav_general automatic_start.launch
       #   - 'export UAV_NAME=uav3; waitForControl;
-      #     rosservice call /$UAV_NAME/mavros/cmd/arming 1;
-      #     sleep 2;
-      #     rosservice call /$UAV_NAME/mavros/set_mode 0 offboard'
+      #     rosservice call /$UAV_NAME/mavros/cmd/arming 1'
       # # uav 4
       #   - export UAV_NAME=uav4; waitForSimulation; roslaunch mrs_uav_general automatic_start.launch
       #   - 'export UAV_NAME=uav4; waitForControl;
-      #     rosservice call /$UAV_NAME/mavros/cmd/arming 1;
-      #     sleep 2;
-      #     rosservice call /$UAV_NAME/mavros/set_mode 0 offboard'
+      #     rosservice call /$UAV_NAME/mavros/cmd/arming 1'
       # # uav 5
       #   - export UAV_NAME=uav5; waitForSimulation; roslaunch mrs_uav_general automatic_start.launch
       #   - 'export UAV_NAME=uav5; waitForControl;
-      #     rosservice call /$UAV_NAME/mavros/cmd/arming 1;
-      #     sleep 2;
-      #     rosservice call /$UAV_NAME/mavros/set_mode 0 offboard'
+      #     rosservice call /$UAV_NAME/mavros/cmd/arming 1'

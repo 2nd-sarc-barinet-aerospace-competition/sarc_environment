@@ -10,8 +10,6 @@
   <arg name="physics" default="ode" />
   <arg name="verbose" default="true" />
 
-  <node name="sarc_map" pkg="sarc_environment" type="sarc_map.py" output="screen"/>
-
     <!-- supply this argument to specify the world name within the sarc_environment package -->
   <arg name="world_name" default="SARC" />
 
@@ -32,6 +30,8 @@
   <arg     if="$(arg verbose)" name="command_arg3" value="--verbose" />
   <arg unless="$(arg debug)" name="script_type" value="gzserver" />
   <arg     if="$(arg debug)" name="script_type" value="debug" />
+
+  <include file="$(find mrs_simulation)/launch/mrs_drone_spawner.launch" />
 
     <!-- start gazebo server-->
   <node name="gazebo" pkg="gazebo_ros" type="$(arg script_type)" respawn="false" output="screen"

@@ -1,29 +1,29 @@
 <?xml version='1.0'?>
 <sdf version='1.7'>
   <model name='SARckc'>
-    <link name='link'>
+    <link name='link_1'>
       <inertial>
-        <mass>1</mass>
+        <pose>0 0 0 0 0 0</pose>
+        <mass>10</mass>
         <inertia>
-          <ixx>0.166667</ixx>
-          <ixy>0</ixy>
-          <ixz>0</ixz>
-          <iyy>0.166667</iyy>
-          <iyz>0</iyz>
-          <izz>0.166667</izz>
+          <ixx>1</ixx>
+          <ixy>1</ixy>
+          <ixz>1</ixz>
+          <iyy>1</iyy>
+          <iyz>1</iyz>
+          <izz>1</izz>
         </inertia>
-        <pose>0 0 0 0 -0 0</pose>
       </inertial>
       <self_collide>0</self_collide>
       <enable_wind>0</enable_wind>
       <kinematic>0</kinematic>
       <pose>0 0 0 0 -0 0</pose>
       <gravity>1</gravity>
-      <collision name="collision">
+      <collision name="collision_uav">
         <pose>0 -1.34855 -1.71555 -0.06382599261 0 0</pose>
         <geometry>
           <box>
-            <size> 2.75012 5.42415 0.089764</size>
+            <size> 2.8 5.5 0.5</size>
           </box>
         </geometry>
       </collision>

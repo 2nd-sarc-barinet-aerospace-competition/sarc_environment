@@ -16,13 +16,13 @@ from matplotlib.patches import Rectangle
 
 rospack = rospkg.RosPack()
 rospack.list()
-rospy.init_node('sarc_map', anonymous=True)
+rospy.init_node('sarc_low_map', anonymous=True)
 rate = rospy.Rate(10) # 10hz
-quant = 1 ## this quantity is this number times 3, since each tree type will have this many replicas
+quant = 100 ## this quantity is this number times 3, since each tree type will have this many replicas
 dronesquant = 5 ## number of drones to spawn, above 5 pay atention in the spawn circle radius
 spawnCircleRadius = 0.75
 
-def sarc_map():
+def sarc_low_map():
   startText = "<?xml version='1.0' ?>\n\
     <?xml-model href='http://sdformat.org/schemas/root.xsd' schematypens='http://www.w3.org/2001/XMLSchema'?>\n\
     <sdf version='1.5'>\n\
@@ -190,10 +190,10 @@ def sarc_map():
   count = 0
 
   def insertFireTree(x, y, count):
-      model = "\t\t\t<model name='SARcfireTree" + str(count) + "'>\n\
+      model = "\t\t\t<model name='MRS_tree_simples_fire" + str(count) + "'>\n\
           <include>\n\
             <pose>" + str(x) + " " + str(y) + " 0 0 0 0" + "</pose>\n\
-            <uri>model://SARcfireTree</uri>\n\
+            <uri>model://MRS_tree_simples_fire</uri>\n\
           </include>\n\
         </model>\n"
 
@@ -201,10 +201,10 @@ def sarc_map():
       return model
 
   def insertCloseTree(x, y, count):
-      model = "\t\t\t<model name='SARccloseTree" + str(count) + "'>\n\
+      model = "\t\t\t<model name='MRS_tree_simples_close" + str(count) + "'>\n\
           <include>\n\
             <pose>" + str(x) + " " + str(y) + " 0 0 0 0" + "</pose>\n\
-            <uri>model://SARccloseTree</uri>\n\
+            <uri>model://MRS_tree_simples_close</uri>\n\
           </include>\n\
         </model>\n"
 
@@ -212,10 +212,10 @@ def sarc_map():
       return model
 
   def insertTree(x, y, count):
-      model = "\t\t\t<model name='SARctree" + str(count) + "'>\n\
+      model = "\t\t\t<model name='MRS_tree_simple" + str(count) + "'>\n\
           <include>\n\
             <pose>" + str(x) + " " + str(y) + " 0 0 0 0" + "</pose>\n\
-            <uri>model://SARctree</uri>\n\
+            <uri>model://MRS_tree_simple</uri>\n\
           </include>\n\
         </model>\n"
       
@@ -419,7 +419,7 @@ def sarc_map():
       # print(xdrone[i])
       ydrone[i] = (math.sin(angleradiusdrones[i]) * spawnCircleRadius)
       # print(ydrone[i])
-      d = open(rospack.get_path('sarc_environment') + "/starts/start_map/pos/pos" + str(i + 1) + ".yaml", "w")
+      d = open(rospack.get_path('sarc_environment') + "/starts/start_low_map/pos/pos" + str(i + 1) + ".yaml", "w")
       d.write(insertUAV(xdrone[i], x5[0], ydrone[i], y5[0],  i))
 
 
@@ -454,6 +454,6 @@ def sarc_map():
 
 if __name__ == '__main__':
     try:
-      sarc_map()
+      sarc_low_map()
     except rospy.ROSInterruptException:
         pass

@@ -1,0 +1,3 @@
+<launch>
+  <node name="sarc_map" pkg="sarc_environment" type="sarc_map.py" output="screen"/>
+</launch>
