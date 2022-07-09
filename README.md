@@ -36,9 +36,13 @@ roslaunch sarc.launch
 ./start.sh
 ```
 
+### Video explanation
+https://drive.google.com/file/d/1_OO3TENFrndkRNayT7Y21d2FYMeosh3b/view?usp=sharing
+
+
 ### Will be added soon, STAY TUNED
 * ~~KC390 (Cargo aircraft) making a path on the map;~~ [ THIS FEATURE WAS CHANGE BY A INTRO VIDEO, WHICH IS AVALIABLE IN PACKAGE FILES]
 * ~~MRS*, UAV's falling from KC (a free-fall mode will be added!);~~ [ ADDED, TAKE A LOOK INTO STARTS FOLDER ]
 * ~~A force that simulates air resistance when kc drops the UAV's;~~ [ ADDED, TAKE A LOOK INTO STARTS FOLDER ]
 * ~~A type of tree with less computational consumption;~~ [ ADDED, TAKE A LOOK INTO STARTS FOLDER ]
-* A video explaining the package better.
+* ~~A video explaining the package better.~~
