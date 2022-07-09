@@ -37,7 +37,7 @@ roslaunch sarc.launch
 ```
 
 ### Will be added soon, STAY TUNED
-* KC390 (Cargo aircraft) making a path on the map;
+* ~~KC390 (Cargo aircraft) making a path on the map;~~ [ THIS FEATURE WAS CHANGE BY A INTRO VIDEO, THAT'S AVALIABLE IN PACKAGE FILES]
 * ~~MRS*, UAV's falling from KC (a free-fall mode will be added!);~~ [ ADDED, TAKE A LOOK INTO STARTS FOLDER ]
 * ~~A force that simulates air resistance when kc drops the UAV's;~~ [ ADDED, TAKE A LOOK INTO STARTS FOLDER ]
 * ~~A type of tree with less computational consumption;~~ [ ADDED, TAKE A LOOK INTO STARTS FOLDER ]
